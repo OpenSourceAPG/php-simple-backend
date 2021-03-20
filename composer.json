@@ -2,7 +2,7 @@
     "name": "andre/framework-landing-page",
     "description": "A simple framework designed to create landing pages to infoproducts",
     "type": "project",
-    "license": "Copyrighted",
+    "license": "MIT",
     "authors": [
         {
             "name": "André Paul Grandsire",
